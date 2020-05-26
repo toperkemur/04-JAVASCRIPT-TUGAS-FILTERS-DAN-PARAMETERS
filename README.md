@@ -1,5 +1,5 @@
-# 04-JAVASCRIPT-TUGAS-31-JS
-Tugas 31 Javascript Niomic
+# 04-JAVASCRIPT-TUGAS-FILTERS-DAN-PARAMETERS
+Tugas Tugas Filter dan Parameters Niomic
 <hr>
  
 Hallo teman-teman, silahkan untuk membuat satu buah file dengan nama filterParameters.js dan kemudian tuliskan code dibawah ini :<br>
